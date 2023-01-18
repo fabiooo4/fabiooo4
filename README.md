@@ -4,7 +4,7 @@
 <h3 align='center'>Languages and tools</h3>
 
 <div align='center'>
-  <img align="center" alt="VSC" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" style="padding-right:10px;" />
+  <img align="center" alt="VSC" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
 
   <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
