@@ -37,3 +37,16 @@
 
   <img align="center" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 </div>
+
+<br>
+<br>
+<h4 align='left'>Contact me</h4>
+<div>
+  <div align='justify'>
+    <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" />  fabiooo4#8077
+  </div>
+
+  <div align='justify'>
+    <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />  fabioirimie@gmail.com
+  </div>
+</div>
