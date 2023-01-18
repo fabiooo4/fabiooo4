@@ -7,8 +7,8 @@
 
 <div align='center'>
   <div>
-    <p>HTML</p>
-    <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; pointer-events:none; cursor:default" />
+    <p>HTML </p>
+    <img align="right" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-left:10px; pointer-events:none; cursor:default" />
   </div>
 
   <img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; pointer-events:none; cursor:default" />
