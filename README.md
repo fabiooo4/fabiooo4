@@ -1,12 +1,20 @@
-<h1 align="center">Hey there, I'm Fabio 👋</h1> 
-<h3 align="center">I'm a young IT student at IIS Castelli in Brescia</h3> 
+<h1 align='center'>Hey there, I'm Fabio 👋</h1>
+
+<h3 align='center'>I'm a young IT student at IIS Castelli in Brescia</h3>
 
 
-<br />
-<br />
+<h3>Languages:</h3>
 
----
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
-[![fabiooo4's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiooo4&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooo4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
