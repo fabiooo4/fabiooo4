@@ -40,7 +40,7 @@
 <h4 align='left'>Contact me</h4>
 <div>
   <div align='justify'>
-    <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" />  fabiooo4#8077
+    <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" />  fabiooo4
   </div>
 
   <div align='justify'>
