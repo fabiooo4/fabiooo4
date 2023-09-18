@@ -1,5 +1,5 @@
 <h1 align='center'>Hey there, I'm Fabio 👋</h1>
-<h3 align='center'>I'm a young IT student at IIS Castelli in Brescia</h3>
+<h3 align='center'>I'm a young IT student at University of Verona</h3>
 <br>
 
 <h3 align='center'>Languages and tools</h3>
