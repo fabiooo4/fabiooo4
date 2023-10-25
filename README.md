@@ -17,6 +17,8 @@
 
   <img align="center" alt="Processing" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
 
+  <img align="center" alt="P5.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/1024px-P5.js_icon.svg.png" />
+
   <img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
   <img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -32,6 +34,9 @@
   <img align="center" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
   <img align="center" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> 
+
+  <img align="center" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" /> 
+  
 
 </div>
 
