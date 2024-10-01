@@ -5,7 +5,9 @@
 <h3 align='center'>Languages and tools</h3>
 
 <div align='center'>
-  <img align="center" alt="VSC" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Nvim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
+
+  <img align="center" alt="Rust" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />  
 
   <img align="center" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -35,9 +37,13 @@
 
   <img align="center" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> 
 
-  <img align="center" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" /> 
-  
+  <img align="center" alt="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+</div>
+<br>
+<br>
 
+<div align=center>
+  <a href="https://fabioirimie.me">My personal website</a>
 </div>
 
 <br>
