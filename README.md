@@ -13,7 +13,7 @@
 <br>
 
 <div align=center>
-  <a href="https://fabioirimie.me">My personal website</a>
+  <a href="https://fabiooo4.github.io/">My personal website</a>
 </div>
 
 <br>
