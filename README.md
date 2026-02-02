@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://fabioirimie.me">
-    <img src="https://skillicons.dev/icons?i=neovim,rust,c,cpp,html,css,js,svelte,python,java,nodejs,php,mysql,flutter" />
+    <img src="https://skillicons.dev/icons?i=neovim,rust,c,cpp,html,css,js,svelte,python,java,nodejs,mysql,flutter" />
   </a>
 </p>
 <br>
