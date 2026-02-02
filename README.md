@@ -28,3 +28,8 @@
     <a href="mailto:fabioirimie@gmail.com"><img align='center' width="20px" src="https://skillicons.dev/icons?i=gmail" /></a>  fabioirimie@gmail.com
   </div>
 </div>
+
+<br>
+<div align=center>
+  <a href="https://u8views.com/github/fabiooo4"><img src="https://u8views.com/api/v1/github/profiles/64950091/views/day-week-month-total-count.svg"></a>
+</div>
