@@ -31,5 +31,5 @@
 
 <br>
 <div align=center>
-  <a href="https://u8views.com/github/fabiooo4"><img src="https://u8views.com/api/v1/github/profiles/64950091/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/fabiooo4"><img src="https://u8views.com/api/v1/github/profiles/64950091/views/day-week-month-total-count.svg" width="0" height="0" alt=""></a>
 </div>
