@@ -1,23 +1,21 @@
-<h1 align='center'>Hey there, I'm Fabio 👋</h1>
-<h3 align='center'>I'm a young IT student at University of Verona</h3>
+<div align='left'>
+<h1>Hey there, I'm Fabio 👋</h1>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVzOG81MWVyNndqZzB4dnNzbXh1ZHA3Nmp2OHF6NzVzcnVreGg1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vSFtDxfJNPeRlEN28M/giphy.gif" alt="luffy" width="350" align="right" />
+
+<h3>I'm a young IT student at University of Verona</h3>
 <br>
 
-<h3 align='center'>Languages and tools</h3>
+<h3>Languages and tools</h3>
 
-<p align="center">
+<p>
   <a href="https://fabioirimie.me">
-    <img src="https://skillicons.dev/icons?i=neovim,rust,c,cpp,html,css,js,svelte,python,java,nodejs,mysql,flutter" />
+    <img src="https://skillicons.dev/icons?i=neovim,nix,rust,c,cpp,html" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=js,svelte,python,java,mysql,flutter" />
   </a>
 </p>
-<br>
-<br>
 
-<div align=center>
-  <a href="https://fabiooo4.github.io/">My personal website</a>
-</div>
 
-<br>
-<br>
 <h4 align='left'>Contact me</h4>
 <div>
   <div align='justify'>
@@ -27,7 +25,14 @@
   <div align='justify'>
     <a href="mailto:fabioirimie@gmail.com"><img align='center' width="20px" src="https://skillicons.dev/icons?i=gmail" /></a>  fabioirimie@gmail.com
   </div>
+  
+  <div align='justify'>
+    <a href="https://fabiooo4.github.io/"><img align='center' width="20px" src="https://skillicons.dev/icons?i=svelte" />My personal website</a>
+  </div>
+</div>  
 </div>
+
+
 
 <br>
 <div align=center>
