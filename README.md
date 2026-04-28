@@ -27,7 +27,7 @@
   </div>
   
   <div align='justify'>
-    <a href="https://fabiooo4.github.io/"><img align='center' width="20px" src="https://skillicons.dev/icons?i=svelte" />My personal website</a>
+    <img align='center' width="20px" src="https://skillicons.dev/icons?i=svelte" />  <a href="https://fabiooo4.github.io/">My personal website</a>
   </div>
 </div>  
 </div>
